@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "second-grail-352314",
+  "private_key_id": "632519c2a3eec283d096e56b04fe2723366c9f2d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC//OZBgQu7fZc8\neMR2VRPpP6tBXcAs2VdIrE9g2u0f5rV72fQWPVq8IwjPlKdcELeTcl2xm9Rwzo6H\nHqZfbO+UuZEm+eldmqMxmRyxw1BbWz43Rl4wxzsPCujIw4yR76k0wSiuwC/Crr0r\nZJBvUPy0VJPH8FgzTgJCBRyulXPzyu8uer8CZLTUN0RxAvVwdO73iKf0ho2HbZ0E\nmDvmENhXItqrFzcexoeXTTiiuLQiqTZHeIQDdLNad0jGekYHEm9g83t2FAx0U37R\n8RVxqkFyLDiDJ9jR8zS91DNyf2FxFz/QLRUoPqCm51LqK33oZ7sdH6EF04KH+N5i\nqTtN3/0lAgMBAAECggEADChxk3He4pVyO6HhPSYnn+SIjZfoiN6NpLxGvZk3nYbQ\ndOKpTrQ9d/8W+oBNNesYGQYL0WjPJAKsq3lhK1dcd7RlsQxv/x3BGm26D7bQ8qwd\nTUZPRjMDtjDoa3hYwVAmTMEzuJdSnvdOYv5YGDiOfEQD5Mw/ZaZZxcEJnzO3N1fF\nR1Vyf8Z/zAgboHMmN9zmmGNb239fYA6JiYUkXXvlEfkXhMYPe6RZXIc8VNOz/f43\nyNtsLCP0wH4YuLu+lYqMQwMCxMIVRj+JkCjhmBtVpy00qf+skqiG2wOb8l1T4fZU\nk5kuocCgM3iM2LIswe7nj+8DCd9I8cL3/4zuwaWZUQKBgQDg9oNzCu2fXsoDl5V0\nnnrd5i17CgRYNiMk0eGz+8xqeVNGZ4QLbHtv11gzVqTkuoihNDdW44JOjib1CqU+\nk3aGEDnFRUsj2u7XgBj1bNuWcB+hISPqS3UrN/1wJ5qEeKw9zXbiI5VHxsz5Nar/\nWpxNHvTZBHTOAqE73PQIO4oDVQKBgQDaebytZY3XJDoXx8EC/HAxN7nQG3x21Euu\nlWUR9DaMEYWnDgOCsBk4yeXDRuy6ztT88d8NWqlCfXYcMtoFcdfJc85niyToJaAw\neaYNuwIIsDxAVeOi4adZOu1TaqTSKHDF19tdUkYSOhkwkA+1tQ+ymCd7oixOVw34\nIxybiteykQKBgFXAAYkXkE4gXpaR8Ek8o47zz0BIKDHLqQe+7O6jO18WkhSTHrUQ\nC9ks15TyIPaC19PCyJlZLXFuJBFhlm1M3m/pvWuhpyuqp0IDtP/QF7+3S4cqz7re\nOnJX7EYVAoQeT2FbcUZv09ZBRB52Q5EEY/HNq/0RAskIHZdo+KguscPlAoGAPkMV\nT0Ey1A5B9Ab8bZJtkskzzigXJ3JHA0EWJbC4XuCbe0lWHMd82J9JOIac7nwFXPS9\nQXwF4qoIn+6qDYUtHv8+4mlYIkSey1HPzffuk3VOJnOTxRaT760Id45b3Hyj7u4e\nWREaYRVnmlxj7b/k8lvEXMqR392VYJL5EybVY9ECgYBQHIWm3aI1WaCJ1UIRsYaf\n/qru8hoeKbuDHq647rzanvpTgEcFCfB0hY3yAYC0mOEzU+DZiq3t/6BaiQY/Bbdw\nBSb4mE7/aAgPJjBxfBy+6MYeyu34Uua425lS7TJIiGLdDS3yuoIvj+DkKY9BHxX6\nM9Q1kcGSR3i/PDP6rTFcaA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "etl-project@second-grail-352314.iam.gserviceaccount.com",
+  "client_id": "102855897893356621970",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/etl-project%40second-grail-352314.iam.gserviceaccount.com"
+}
