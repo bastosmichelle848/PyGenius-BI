@@ -7,4 +7,4 @@ The PyGenius-BI project is a complete solution for processing and analyzing larg
 
 With DataHarvest BI, businesses can quickly and easily integrate and transform their data from different sources into a centralized data warehouse, and gain insights through intuitive and powerful data visualization tools. The solution is highly scalable, flexible, and cost-effective, making it suitable for businesses of all sizes and industries.
 
-Here are the link of the project for more details: https://portfoliomichelle.my.canva.site/michellebastos
+Here is the link for more details about this project: https://portfoliomichelle.my.canva.site/michellebastos
